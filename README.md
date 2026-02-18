@@ -81,15 +81,6 @@ Bookmark prioritizes your data integrity. Our multi-layer security model ensures
 
 Bookmark is production-ready and optimized for Vercel.
 
-1. Connect your repository to Vercel.
-2. Inject your `.env` variables.
-3. **Deploy.**
-
-For a comprehensive guide, see [**DEPLOYMENT.md**](./DEPLOYMENT.md).
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+**Deployed Link.** - https://bookmark-prodction.vercel.app
 
 Built with ❤️ and logic.
